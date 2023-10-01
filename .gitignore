@@ -1,0 +1,11 @@
+### my_git_ignore_file template
+__pycache__
+.idea
+*.iml
+out
+env
+venv
+config.py
+db
+
+blog/migrations/
